@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-wawaki-dev/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "imooc-cli-wawaki core",
   "author": "sakumashirayuki <2909549511@qq.com>",
   "homepage": "",
@@ -24,6 +24,6 @@
     "test": "echo \"run testing from core\""
   },
   "dependencies": {
-    "@imooc-cli-wawaki-dev/utils": "^0.0.2"
+    "@imooc-cli-wawaki-dev/utils": "^0.0.3"
   }
 }
