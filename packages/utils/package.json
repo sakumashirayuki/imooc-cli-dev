@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-wawaki-dev/utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "imooc-cli-wawaki-dev utils",
   "author": "sakumashirayuki <2909549511@qq.com>",
   "homepage": "",
@@ -18,7 +18,5 @@
   },
   "scripts": {
     "test": "echo \"run testing from utils\""
-  },
-  "dependencies": {
   }
 }
